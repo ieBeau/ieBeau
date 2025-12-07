@@ -16,6 +16,15 @@ Strong foundations in finance and mathematics with an ability to create innovati
 <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/686734de-e680-46d7-b7f4-26143c15e60a" /> - Java  
 <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/4a2621a0-7def-4aa8-b466-6ba0fc9afb63" /> - C#
 
+## Frameworks:
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/e3acfae2-64f2-4acd-8413-3045fa75b9b6" /> - React  
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/3f3ab901-eb26-432c-800b-99da9070455d" /> - Angular
+
+## Databases:
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/5ce13aa7-d983-4085-9ccc-4387816f2546" /> - MongoDB  
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/7f13c003-216f-467e-a6a8-775e3b928ddb" /> - MySQL  
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/78b6b8a7-4ba5-484e-be8d-7d5264ec459a" /> - Oracle Database
+
 ## Featured Projects:
 [LeetCode Coach](https://github.com/ieBeau/LeetCodeCoach) - A program to help keep track of your technical interview progress. Roadmap supplied by Neetcode.
 
